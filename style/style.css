@@ -1,0 +1,19 @@
+.carousal-image{
+    width: 25%;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width:575px) {
+
+    .border-full-legal-practice{
+        border: 1px solid; 
+        background-color:white;
+    }
+    .border-bg-legal-practice{
+        
+        background-color:white;
+    }
+   
+    
+}
+
